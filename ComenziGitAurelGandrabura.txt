@@ -1,0 +1,16 @@
+git checkout -b diana_lari master
+git status
+git add .
+git commit -m "commit"
+git push
+git pull
+git stash
+git config
+cd repo
+git init
+git log
+git status
+touch ....txt
+git add
+git commit
+
