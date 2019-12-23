@@ -1,0 +1,17 @@
+git init
+git config
+git clone
+git add
+git commit
+git push
+git stash
+git unstash
+git pull
+git diff
+git status
+git log
+git branch
+git checkout
+git cherry-pick
+git merge
+git reset
