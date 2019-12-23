@@ -1,0 +1,7 @@
+git checkout -b diana_lari master
+git status
+git add .
+git commit -m "commit"
+git push
+git pull
+git stash
