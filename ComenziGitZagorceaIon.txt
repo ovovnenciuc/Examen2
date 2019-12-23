@@ -1,0 +1,11 @@
+git add
+git commit 
+git push 
+git pull
+git merge
+git log
+git init
+git clon 
+git checkout
+git stash
+git cherry-pick
