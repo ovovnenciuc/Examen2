@@ -1,0 +1,9 @@
+git init den
+cd den
+git branch den_branch
+git checkout den_branch_nou
+git add file
+git add.
+git commit -m 'mesaj'
+git pull - descarca
+git push - incarca
