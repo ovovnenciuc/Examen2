@@ -1,6 +1,9 @@
 4. Victor Noni
 1. Diana Lari
 2.Crimneac Vadim
+
+10.Aurel Gandrabura
+
 13. Gatman Serghei
 3. Zagorcea Ion
 4. Cudalb Nicanor
@@ -8,4 +11,6 @@
 12.GutuAlla
 
 15. Lupescu Vasile
+
+17. Cazacu Victoria
 
