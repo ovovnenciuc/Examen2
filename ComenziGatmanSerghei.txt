@@ -1,0 +1,16 @@
+git add
+git status
+git push
+git pull
+git checkout
+git commit -m 'CommitName'
+git stash/unstash
+git log
+git rm
+git clone
+git help
+git rebase
+git merge
+git branch
+git init
+
