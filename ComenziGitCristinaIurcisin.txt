@@ -1,0 +1,10 @@
+git init examen
+git status
+cd examen
+git add doc.txt
+
+
+git branch cristina_iurcisin
+git branch cristina_iurcisin -m cristina (redenumeste branch)
+git checkout iurcisin -trecerea pe branch 
+ 
