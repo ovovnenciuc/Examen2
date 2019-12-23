@@ -1,0 +1,4 @@
+1. git commit
+2. git push
+3. git pull
+4. git checkout
