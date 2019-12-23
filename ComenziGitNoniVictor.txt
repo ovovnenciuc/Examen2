@@ -1,0 +1,12 @@
+git init
+clone
+push
+pull
+add .
+commit
+status
+checkout
+stash
+merge
+reset
+config
